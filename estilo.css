@@ -1,3 +1,7 @@
+:root{
+  --corPrincipal: white;
+}
+
 footer{
   background: coral;
   padding: 15px;
@@ -9,3 +13,13 @@ h1{
   text-align: center;
   text-transform: uppercase;
 }
+
+ul{
+  background: burlywood;
+}
+
+li{
+  padding: 15px;
+  color: var(--corPrincipal);
+}
+
